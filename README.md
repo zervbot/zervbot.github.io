@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 泽夫波特工具箱
 
-You can use the [editor on GitHub](https://github.com/zervbot/zervbot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> **随手写写的小工具，仅供学习交流使用，违法行为与本项目无关。**  
+> **学習とコミュニケーションのみを目的とした小さな道具箱、違法な使用は禁止されています。**  
+> **Una piccola cassetta degli attrezzi solo per l'apprendimento e la comunicazione, l'uso illegale è proibito.**  
+> **Casual writing of gadgets, only for learning and exchange purposes, illegal acts have nothing to do with this project.**  
+> **Небольшой набор инструментов только для учебных и коммуникационных целей, незаконное использование запрещено.**  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工具/TOOL
 
-### Markdown
+- [XXW](/xxw) - 学信网界面生成器
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 许可证/License
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zervbot/zervbot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Distributed under the **CC BY-NC-SA** License. See [**LICENSE**](http://creativecommons.org/licenses/by-nc-sa/4.0/) for more information.
+<p xmlns:cc="http://creativecommons.org/ns#" ><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
