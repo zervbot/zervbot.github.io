@@ -1,5 +1,3 @@
-## 泽夫波特工具箱
-
 > **随手写写的小工具，仅供学习交流使用，违法行为与本项目无关。**  
 > **学習とコミュニケーションのみを目的とした小さな道具箱、違法な使用は禁止されています。**  
 > **Una piccola cassetta degli attrezzi solo per l'apprendimento e la comunicazione, l'uso illegale è proibito.**  
